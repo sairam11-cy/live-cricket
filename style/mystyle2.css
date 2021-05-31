@@ -1,0 +1,17 @@
+h1{
+  background-color: #EAF4D9;
+  padding-top: 50px
+}
+span.a {
+  background-color: yellow;
+  padding: 20px;
+  padding-right:100px;
+  padding-top:50px;
+
+}
+span.b{
+    background-color: yellow;
+    padding: 20px;
+    padding-right:70px;
+    padding-top:50px;
+  }
